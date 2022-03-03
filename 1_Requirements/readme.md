@@ -12,39 +12,39 @@ Multiplication
 Division
 Remainder
 Square
-#### Memory conversion
+#### MEMORY CONVERSION
 Kilobytes to Megabytes
 Megabytes to Kilobytes
 Megabytes to Gigabytes
 Gigabytes to Megabytes
-##### Currency conversion
+##### CURRENCY CONVERSION
 Rupees to Dollar
 Dollar to Rupees
 Rupees to Euro
 Euro to Rupees
-######  Unit conversion
+######  UNIT CONVERSION
 Centimeters to Meters and Kilometers
 Meters to Cenitimeters and Kilometers
 Kilometers to Centimeters and Meters
-#######       Advantages
+####### ADVANTAGE
 Easy and faster access
 Can be used anywhere
-########         Disadvantages
+######## DISADVANTAGE
 GUI is required
 Limited functions
-#########         Cost and Features
+######### COST OF INVESTMENT
 Low Cost
 Easier Access
-##########           SWOT ANALYSIS
+########## SWOT ANALYSIS
 Strengths
 It makes calculations and conversions easily.
 We can access it from anywhere.
 It is available for 24/7.
-###########            Weaknesses
+###########WEAKNESS
 Poor graphical user interface.
 Limited to some features.
-############           Opportunities
+############OPPORTUNITY
 User friendly
 It can be used for mutli purpose like calculations, conversions.
-############            Threats
+############THREATS
 Limited access
