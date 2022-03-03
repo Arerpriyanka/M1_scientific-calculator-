@@ -1,9 +1,9 @@
 # Requirements
 ## High Level Requirements
-*Calculator
-*Memory conversion
-*Currency conversion
-*Unit conversion
+* Calculator
+* Memory conversion
+* Currency conversion
+* Unit conversion
 ### Low Level Requirements
 *Calculator
 *Addition
