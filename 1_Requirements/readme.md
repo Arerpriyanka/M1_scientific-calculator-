@@ -21,8 +21,8 @@ Gigabytes to Megabytes
 Rupees to Dollar
 Dollar to Rupees
 Rupees to Euro
-Euro to Rupees
-######  UNIT CONVERSION
+Euro to Rupee
+###### UNIT CONVERSION
 Centimeters to Meters and Kilometers
 Meters to Cenitimeters and Kilometers
 Kilometers to Centimeters and Meters
@@ -40,10 +40,10 @@ Strengths
 It makes calculations and conversions easily.
 We can access it from anywhere.
 It is available for 24/7.
-###########WEAKNESS
+########### WEAKNESS
 Poor graphical user interface.
 Limited to some features.
-############OPPORTUNITY
+########### OPPORTUNITY
 User friendly
 It can be used for mutli purpose like calculations, conversions.
 ############THREATS
