@@ -1,10 +1,10 @@
 # REQUIREMENTS
-## HIGH LEVEL REQUIREMENT
+## HIGH LEVEL REQUIREMENTS
 Calculator
 Memory conversion
 Currency conversion
 Unit conversion
-### Low Level Requirements
+### LOW LEVEL REQUIREMENTS
 Calculator
 Addition
 Substraction
