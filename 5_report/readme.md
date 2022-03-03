@@ -26,25 +26,32 @@ Euro to Rupees
 Centimeters to Meters and Kilometers
 Meters to Cenitimeters and Kilometers
 Kilometers to Centimeters and Meters
-####### Advantages
+
+Advantages
 Easy and faster access
 Can be used anywhere
-######## Disadvantages
+
+Disadvantages
 GUI is required
 Limited functions
-######### Cost and Features
+
+Cost and Features
 Low Cost
 Easier Access
-########## SWOT ANALYSIS
-########### Strengths
+
+SWOT ANALYSIS
+Strengths
 It makes calculations and conversions easily.
 We can access it from anywhere.
 It is available for 24/7.
-############ Weaknesses
+
+Weaknesses
 Poor graphical user interface.
 Limited to some features.
-############# Opportunities
+
+Opportunities
 User friendly
 It can be used for mutli purpose like calculations, conversions.
-############## Threats
+
+Threats
 Limited access
