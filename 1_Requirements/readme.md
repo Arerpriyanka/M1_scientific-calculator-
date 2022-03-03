@@ -35,16 +35,16 @@ Limited functions
 ######### COST OF INVESTMENT
 Low Cost
 Easier Access
-########## SWOT ANALYSIS
+######### SWOT ANALYSIS
 Strengths
 It makes calculations and conversions easily.
 We can access it from anywhere.
 It is available for 24/7.
-########### WEAKNESS
+########## WEAKNESS
 Poor graphical user interface.
 Limited to some features.
 ########### OPPORTUNITY
 User friendly
 It can be used for mutli purpose like calculations, conversions.
-############THREATS
+############ THREATS
 Limited access
