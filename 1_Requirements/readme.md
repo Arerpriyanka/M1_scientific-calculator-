@@ -26,25 +26,32 @@
 * Centimeters to Meters and Kilometers
 * Meters to Cenitimeters and Kilometers
 * Kilometers to Centimeters and Meters
-####### ADVANTAGE
+
+ADVANTAGE
 * Easy and faster access
 * Can be used anywhere
-######## DISADVANTAGE
+
+DISADVANTAGE
 * GUI is required
 * Limited functions
-######### COST OF INVESTMENT
+
+COST OF INVESTMENT
 * Low Cost
 * Easier Access
-######### SWOT ANALYSIS
+
+SWOT ANALYSIS
 * Strengths
 * It makes calculations and conversions easily.
 * We can access it from anywhere.
 * It is available for 24/7.
-########## WEAKNESS
+
+WEAKNESS
 * Poor graphical user interface.
 * Limited to some features.
-########### OPPORTUNITY
+
+OPPORTUNITY
 * User friendly
 * It can be used for mutli purpose like calculations, conversions.
-############ THREATS
+
+THREATS
 * Limited access
