@@ -22,14 +22,14 @@ Rupees to Dollar
 Dollar to Rupees
 Rupees to Euro
 Euro to Rupees
-###### Unit conversion
+######  Unit conversion
 Centimeters to Meters and Kilometers
 Meters to Cenitimeters and Kilometers
 Kilometers to Centimeters and Meters
-####### Advantages
+#######  Advantages
 Easy and faster access
 Can be used anywhere
-######## Disadvantages
+########  Disadvantages
 GUI is required
 Limited functions
 ######### Cost and Features
